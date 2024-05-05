@@ -20,7 +20,7 @@ To install and run the Zim-Payconnect API locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/zim-payconnect.git
+    git clone https://github.com/anesu398/zim-payconnect.git
     ```
 
 2. Navigate to the project directory:
